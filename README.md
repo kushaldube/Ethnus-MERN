@@ -12,4 +12,3 @@
 8. [Task 8](https://kushaldube.github.io/Ethnus-MERN/HTML/task_8.html)
 9. [Task 9](https://kushaldube.github.io/Ethnus-MERN/HTML/task_9.html)
 10. [Task 10](https://kushaldube.github.io/Ethnus-MERN/HTML/task_10.html)
-11. [Task 11](https://kushaldube.github.io/Ethnus-MERN/HTML/task_11.html)

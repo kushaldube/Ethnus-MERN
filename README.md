@@ -49,4 +49,4 @@
 9. [Task 9](https://kushaldube.github.io/Ethnus-MERN/JavaScript/task_9.html)
 10. [Task 10](https://kushaldube.github.io/Ethnus-MERN/JavaScript/task_10.html)
 11. [Task 11](https://kushaldube.github.io/Ethnus-MERN/JavaScript/task_11.html)
-12. [Task 12](https://kushaldube.github.io/Ethnus-MERN/JavaScript/task_12.html)
+
